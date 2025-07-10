@@ -1,0 +1,430 @@
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\appsettings.Development.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\appsettings.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\appsettings.Production.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\appsettings.Staging.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.staticwebassets.endpoints.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.exe
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.deps.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.runtimeconfig.json
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.pdb
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Npgsql.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.AspNetCore.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\System.Text.Json.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\TestProject\SARB-Reporting\bin\Debug\net8.0\NecCore.dll
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.AssemblyReference.cache
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfoInputs.cache
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfo.cs
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.CoreCompileInputs.cache
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cs
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cache
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\scopedcss\bundle\SARB-Reporting.styles.css
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.json
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets.development.json
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssets.props
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SARB-Reporting.props
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SARB-Reporting.props
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SARB-Reporting.props
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets.pack.json
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Rep.4AC7A19A.Up2Date
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.dll
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\refint\SARB-Reporting.dll
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.pdb
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.genruntimeconfig.cache
+F:\TestProject\SARB-Reporting\obj\Debug\net8.0\ref\SARB-Reporting.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\appsettings.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.staticwebassets.endpoints.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.exe
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.deps.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.runtimeconfig.json
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Npgsql.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\SARB-Reporting\SARB-Reporting\bin\Debug\net8.0\NecCore.dll
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.AssemblyReference.cache
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfoInputs.cache
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfo.cs
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.CoreCompileInputs.cache
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\scopedcss\bundle\SARB-Reporting.styles.css
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SARB-Reporting.props
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SARB-Reporting.props
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SARB-Reporting.props
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Rep.4AC7A19A.Up2Date
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.dll
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\refint\SARB-Reporting.dll
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.genruntimeconfig.cache
+E:\Project\SARB-Reporting\SARB-Reporting\obj\Debug\net8.0\ref\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.exe
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.deps.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.runtimeconfig.json
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\NecCore.dll
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfo.cs
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\scopedcss\bundle\SARB-Reporting.styles.css
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Rep.4AC7A19A.Up2Date
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\refint\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.genruntimeconfig.cache
+E:\Project\API Gateway\SARB-Reporting\obj\Debug\net8.0\ref\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\SARB-Reporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\SARB-Reporting.exe
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\SARB-Reporting.deps.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\SARB-Reporting.runtimeconfig.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\NecCore.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.AssemblyInfo.cs
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\scopedcss\bundle\SARB-Reporting.styles.css
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.build.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Rep.4AC7A19A.Up2Date
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\refint\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\SARB-Reporting.genruntimeconfig.cache
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\obj\Debug\net8.0\ref\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\API Gateway\SARB-Reporting - Adding JWT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\SARB-Reporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\SARB-Reporting.exe
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\SARB-Reporting.deps.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\SARB-Reporting.runtimeconfig.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\bin\Debug\net8.0\NecCore.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.AssemblyInfo.cs
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\scopedcss\bundle\SARB-Reporting.styles.css
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.build.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SARB-Reporting.props
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Rep.4AC7A19A.Up2Date
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\refint\SARB-Reporting.dll
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\SARB-Reporting.genruntimeconfig.cache
+E:\Project\API Gateway\SARB-Reporting - 2 Adding JWT\obj\Debug\net8.0\ref\SARB-Reporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.exe
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.deps.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.runtimeconfig.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\bin\Debug\net8.0\NecCore.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.AssemblyInfo.cs
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\scopedcss\bundle\SARB-Reporting.styles.css
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.SARB-Reporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SARB-Reporting.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SARB-Reporting.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SARB-Reporting.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Rep.4AC7A19A.Up2Date
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\refint\SARB-Reporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.pdb
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\SARB-Reporting.genruntimeconfig.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SARB-Reporting\obj\Debug\net8.0\ref\SARB-Reporting.dll

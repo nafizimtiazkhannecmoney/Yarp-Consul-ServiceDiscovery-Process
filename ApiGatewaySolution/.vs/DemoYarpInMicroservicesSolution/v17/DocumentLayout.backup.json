@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\apigateway\\configurations\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\configurations\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\orderapi\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\orderapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\productapi\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2843C519-D233-4545-8F3A-43475C912C55}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FACC80A-95F1-45E7-8A8A-BA22947074ED}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\apigateway\\data\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\data\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\yarp netcode 2 cache (load from memory) 8 added sarb as service in gateway\\demoyarpinmicroservicessolution\\apigateway\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:43:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsulConfig.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Configurations\\ConsulConfig.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Configurations\\ConsulConfig.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Configurations\\ConsulConfig.cs",
+              "RelativeToolTip": "ApiGateway\\Configurations\\ConsulConfig.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:47:01.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsulRegistration.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\ConsulRegistration.cs",
+              "RelativeDocumentMoniker": "ProductApi\\ConsulRegistration.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\ConsulRegistration.cs",
+              "RelativeToolTip": "ProductApi\\ConsulRegistration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:44:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Order.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Order.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Order.cs",
+              "RelativeToolTip": "OrderApi\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:44:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:38:03.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\appsettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "ProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T14:17:23.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T13:58:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:50:38.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T13:08:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T13:09:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:26:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsulRegistration.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\ConsulRegistration.cs",
+              "RelativeDocumentMoniker": "OrderApi\\ConsulRegistration.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\ConsulRegistration.cs",
+              "RelativeToolTip": "OrderApi\\ConsulRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:05:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T13:35:59.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Program.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\Program.cs",
+              "RelativeToolTip": "OrderApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:19:06.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderApi\\appsettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\OrderApi\\appsettings.json",
+              "RelativeToolTip": "OrderApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T10:31:11.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Data\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Data\\AppIdentityDbContext.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Data\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "ApiGateway\\Data\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:03:51.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\IdentityController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\YARP Netcode 2 Cache (Load From Memory) 8 Added SARB as service in gateway\\DemoYarpInMicroservicesSolution\\ApiGateway\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:16:30.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

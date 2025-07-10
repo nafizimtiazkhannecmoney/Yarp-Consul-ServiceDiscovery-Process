@@ -1,0 +1,271 @@
+[
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GenerateFile",
+    "RelativePath": "api/GoAML/GenerateFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SaGoAMLReporting.Model.XMLReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GenerateFileBase64",
+    "RelativePath": "api/GoAML/GenerateFileBase64",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SaGoAMLReporting.Model.XMLReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GetBranchData",
+    "RelativePath": "api/GoAML/GetBranchData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.BranchRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GetRemittanceData",
+    "RelativePath": "api/GoAML/GetRemittanceData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceViewDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GetSTRMonthlyReport",
+    "RelativePath": "api/GoAML/GetSTRMonthlyReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.STR_Monthly_Report_Request_Body",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GetSTRMonthlyReportAsFile",
+    "RelativePath": "api/GoAML/GetSTRMonthlyReportAsFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.STR_Monthly_Report_Request_Body",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.GoAMLController",
+    "Method": "GetTest",
+    "RelativePath": "api/GoAML/GetTestData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetRejectedData",
+    "RelativePath": "api/Sarb/GetRejectedData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetRemittanceData",
+    "RelativePath": "api/Sarb/GetRemittanceData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetRemittanceOutwardViewData",
+    "RelativePath": "api/Sarb/GetRemittanceOutwardViewData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetStatusTimelineExcelData",
+    "RelativePath": "api/Sarb/GetSarbStatusTimelineExcelData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetStatusExcelDataAsFile",
+    "RelativePath": "api/Sarb/GetStatusExcelDataAsFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetStatusTimelineData",
+    "RelativePath": "api/Sarb/GetStatusTimelineData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetTransactionData",
+    "RelativePath": "api/Sarb/GetTransactionData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SaGoAMLReporting.Controllers.SarbController",
+    "Method": "GetTransactionSarbExcelData",
+    "RelativePath": "api/Sarb/GetTransactionSarbExcelData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request_Body",
+        "Type": "SaGoAMLReporting.Model.RemittanceSarbDataRequest",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

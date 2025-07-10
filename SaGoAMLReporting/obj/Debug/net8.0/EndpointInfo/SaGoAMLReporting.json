@@ -1,0 +1,866 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "SaGoAMLReporting",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/GoAML/GetTestData": {
+      "get": {
+        "tags": [
+          "GoAML"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/GoAML/GenerateFileBase64": {
+      "post": {
+        "tags": [
+          "GoAML"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLReportRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLReportRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLReportRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GoAML/GenerateFile": {
+      "post": {
+        "tags": [
+          "GoAML"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLReportRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLReportRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/XMLReportRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GoAML/GetSTRMonthlyReport": {
+      "post": {
+        "tags": [
+          "GoAML"
+        ],
+        "parameters": [
+          {
+            "name": "FileType",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "Pdf"
+            }
+          },
+          {
+            "name": "ContentType",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "application/pdf"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/STR_Monthly_Report_Request_Body"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/STR_Monthly_Report_Request_Body"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/STR_Monthly_Report_Request_Body"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GoAML/GetSTRMonthlyReportAsFile": {
+      "post": {
+        "tags": [
+          "GoAML"
+        ],
+        "parameters": [
+          {
+            "name": "FileType",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "Pdf"
+            }
+          },
+          {
+            "name": "ContentType",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "application/pdf"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/STR_Monthly_Report_Request_Body"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/STR_Monthly_Report_Request_Body"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/STR_Monthly_Report_Request_Body"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GoAML/GetRemittanceData": {
+      "post": {
+        "tags": [
+          "GoAML"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceViewDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceViewDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceViewDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/GoAML/GetBranchData": {
+      "post": {
+        "tags": [
+          "GoAML"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BranchRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BranchRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/BranchRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetRemittanceData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetTransactionData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetRejectedData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetStatusTimelineData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetSarbStatusTimelineExcelData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetStatusExcelDataAsFile": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetTransactionSarbExcelData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RemittanceSarbDataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetRemittanceOutwardViewData": {
+      "post": {
+        "tags": [
+          "Sarb"
+        ],
+        "parameters": [
+          {
+            "name": "from",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BranchPayload": {
+        "type": "object",
+        "properties": {
+          "actionName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "BranchRequest": {
+        "type": "object",
+        "properties": {
+          "header": {
+            "$ref": "#/components/schemas/Header"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/BranchPayload"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Header": {
+        "type": "object",
+        "properties": {
+          "authToken": {
+            "type": "string",
+            "nullable": true
+          },
+          "actionName": {
+            "type": "string",
+            "nullable": true
+          },
+          "serviceName": {
+            "type": "string",
+            "nullable": true
+          },
+          "copyRight": {
+            "type": "string",
+            "nullable": true
+          },
+          "requestToken": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "version": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "userModifidId": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RemittanceSarbDataRequest": {
+        "type": "object",
+        "properties": {
+          "header": {
+            "$ref": "#/components/schemas/Header"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/RemittanceSarbDataResponsePayload"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RemittanceSarbDataResponsePayload": {
+        "type": "object",
+        "properties": {
+          "userModifiedId": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "actionName": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "rows": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "branchCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "fromDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "toDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true,
+            "readOnly": true
+          },
+          "pageNo": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RemittanceViewDataRequest": {
+        "type": "object",
+        "properties": {
+          "header": {
+            "$ref": "#/components/schemas/Header"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/RemittanceViewDataRequestPayload"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RemittanceViewDataRequestPayload": {
+        "type": "object",
+        "properties": {
+          "actionName": {
+            "type": "string",
+            "nullable": true
+          },
+          "userModifiedId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "fromDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "toDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "reportCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "branchCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "amount": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "customerId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "pageNo": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "isReported": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "STR_Monthly_Report_Request_Body": {
+        "type": "object",
+        "properties": {
+          "header": {
+            "$ref": "#/components/schemas/Header"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/STR_Monthly_Report_Request_Data"
+          }
+        },
+        "additionalProperties": false
+      },
+      "STR_Monthly_Report_Request_Data": {
+        "type": "object",
+        "properties": {
+          "actionName": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt1_v1": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt1_v2": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt2_v1": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt2_v2": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt3": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "opt4": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt5": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt6_v1": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt6_v2": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt6_v3": {
+            "type": "string",
+            "nullable": true
+          },
+          "opt7": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "opt8": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "opt9": {
+            "type": "string",
+            "nullable": true
+          },
+          "amlroName": {
+            "type": "string",
+            "nullable": true
+          },
+          "fromDate": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Transaction1": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "XMLReportPayloadRequest": {
+        "type": "object",
+        "properties": {
+          "reportingPersonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "actionName": {
+            "type": "string",
+            "nullable": true
+          },
+          "txnType": {
+            "type": "string",
+            "nullable": true
+          },
+          "reportCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "currencyCodeLocal": {
+            "type": "string",
+            "nullable": true
+          },
+          "comments": {
+            "type": "string",
+            "nullable": true
+          },
+          "reportReason": {
+            "type": "string",
+            "nullable": true
+          },
+          "actionTaken": {
+            "type": "string",
+            "nullable": true
+          },
+          "transactions": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Transaction1"
+            },
+            "nullable": true
+          },
+          "branchCode": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "XMLReportRequest": {
+        "type": "object",
+        "properties": {
+          "header": {
+            "$ref": "#/components/schemas/Header"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/XMLReportPayloadRequest"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

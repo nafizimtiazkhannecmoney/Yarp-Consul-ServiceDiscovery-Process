@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "t3txQBrHlj4JY1tVgSMFV4vBcXdjakRHrk7SeylKdjw=",
+  "Source": "SARB-Reporting",
+  "BasePath": "_content/SARB-Reporting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

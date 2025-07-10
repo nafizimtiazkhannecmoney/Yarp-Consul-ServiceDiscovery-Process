@@ -1,0 +1,673 @@
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Development.json
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\appsettings.json
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Production.json
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.exe
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.deps.json
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.runtimeconfig.json
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.pdb
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Npgsql.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.Common.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.DataVisualization.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.NETCore.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.CodeDom.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Resources.Extensions.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.AssemblyReference.cache
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.GeneratedMSBuildEditorConfig.editorconfig
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfoInputs.cache
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfo.cs
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.CoreCompileInputs.cache
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cs
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cache
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.json
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.development.json
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssets.props
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SaGoAMLReporting.props
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaGoAMLReporting.props
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaGoAMLReporting.props
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.pack.json
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\scopedcss\bundle\SaGoAMLReporting.styles.css
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLR.638240DF.Up2Date
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.dll
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\refint\SaGoAMLReporting.dll
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.pdb
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.genruntimeconfig.cache
+D:\nec\SaGoAMLReporting\obj\Debug\net8.0\ref\SaGoAMLReporting.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Azure.Core.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Azure.Identity.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.ClientModel.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Memory.Data.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nec\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.exe
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.deps.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.runtimeconfig.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.pdb
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Azure.Core.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Azure.Identity.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.Common.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.DataVisualization.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.NETCore.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.ClientModel.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.CodeDom.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Resources.Extensions.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Http.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Security.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfo.cs
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\scopedcss\bundle\SaGoAMLReporting.styles.css
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SaGoAMLReporting.props
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaGoAMLReporting.props
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaGoAMLReporting.props
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLR.638240DF.Up2Date
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\refint\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.pdb
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.genruntimeconfig.cache
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\obj\Debug\net8.0\ref\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting\SaGoAMLReporting\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.exe
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.deps.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.runtimeconfig.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.pdb
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Azure.Core.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Azure.Identity.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.Common.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.DataVisualization.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.NETCore.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.ClientModel.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.CodeDom.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Resources.Extensions.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Http.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Security.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfo.cs
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\scopedcss\bundle\SaGoAMLReporting.styles.css
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SaGoAMLReporting.props
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaGoAMLReporting.props
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaGoAMLReporting.props
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLR.638240DF.Up2Date
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\refint\SaGoAMLReporting.dll
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.pdb
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.genruntimeconfig.cache
+E:\Project\API Gateway\SaGoAMLReporting 2 - Adding JWT\SaGoAMLReporting\obj\Debug\net8.0\ref\SaGoAMLReporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\appsettings.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.staticwebassets.endpoints.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.exe
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.deps.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.runtimeconfig.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\SaGoAMLReporting.pdb
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Azure.Core.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Azure.Identity.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Consul.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Npgsql.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.Common.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.DataVisualization.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.NETCore.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.ClientModel.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.CodeDom.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Resources.Extensions.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Http.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.Security.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\System.ServiceModel.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.AssemblyReference.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfoInputs.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.AssemblyInfo.cs
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.csproj.CoreCompileInputs.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\scopedcss\bundle\SaGoAMLReporting.styles.css
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.SaGoAMLReporting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.build.SaGoAMLReporting.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SaGoAMLReporting.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SaGoAMLReporting.props
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLR.638240DF.Up2Date
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\refint\SaGoAMLReporting.dll
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.pdb
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\SaGoAMLReporting.genruntimeconfig.cache
+E:\Project\API Gateway\1 Gateway User SARB GOAML\SaGoAMLReporting\obj\Debug\net8.0\ref\SaGoAMLReporting.dll

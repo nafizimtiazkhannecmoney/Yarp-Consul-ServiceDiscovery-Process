@@ -1,0 +1,628 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "SARB-Reporting",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Sarb/GetTestData": {
+      "get": {
+        "tags": [
+          "SARB-Data-Getting"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetByFileName": {
+      "get": {
+        "tags": [
+          "SARB-Data-Getting"
+        ],
+        "parameters": [
+          {
+            "name": "fileName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Sarb/GetByReference": {
+      "get": {
+        "tags": [
+          "SARB-Data-Getting"
+        ],
+        "parameters": [
+          {
+            "name": "sarbref",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/SarbReport/Regular": {
+      "post": {
+        "tags": [
+          "SARB-Reporting"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/TransactionData"
+                }
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/TransactionData"
+                }
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/TransactionData"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/SarbReport/Cancel": {
+      "post": {
+        "tags": [
+          "SARB-Reporting"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/SarbReport/Replace": {
+      "post": {
+        "tags": [
+          "SARB-Reporting"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/SarbReport/Refund": {
+      "post": {
+        "tags": [
+          "SARB-Reporting"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransactionData"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TransactionData": {
+        "type": "object",
+        "properties": {
+          "rows": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "fromDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "toDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastRunDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "txnId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "remitSarbDataId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "remitSarbDataVer": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "txnSarbDataId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "txnSarbDataVer": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "remitPrefix": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryId": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryName": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiarySurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryCountry": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryAccNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryAccIdentifier": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryCurrencyCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "beneficiaryAmount": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "customerId": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerGender": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerDob": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "customerIdentityNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPassportNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPassportCountry": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerAccIdentifier": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerSuburb": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerProvince": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPostalCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPostalAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPostalSuburb": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPostalCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPostalProvince": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerContactName": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerContactSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "origTxnRefNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerAccNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerPhone": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerAmount": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "sarbEnvironment": {
+            "type": "string",
+            "nullable": true
+          },
+          "sarbVersion": {
+            "type": "string",
+            "nullable": true
+          },
+          "reportingQualifier": {
+            "type": "string",
+            "nullable": true
+          },
+          "flow": {
+            "type": "string",
+            "nullable": true
+          },
+          "txnDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "referenceNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "branchCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "branchName": {
+            "type": "string",
+            "nullable": true
+          },
+          "originatingBank": {
+            "type": "string",
+            "nullable": true
+          },
+          "originatingCountry": {
+            "type": "string",
+            "nullable": true
+          },
+          "receivingBank": {
+            "type": "string",
+            "nullable": true
+          },
+          "receivingCountry": {
+            "type": "string",
+            "nullable": true
+          },
+          "sequenceNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "mtai": {
+            "type": "string",
+            "nullable": true
+          },
+          "tpcSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "tpcName": {
+            "type": "string",
+            "nullable": true
+          },
+          "tpTelephone": {
+            "type": "string",
+            "nullable": true
+          },
+          "letpName": {
+            "type": "string",
+            "nullable": true
+          },
+          "bopCategory": {
+            "type": "string",
+            "nullable": true
+          },
+          "rulingSection": {
+            "type": "string",
+            "nullable": true
+          },
+          "locationCountry": {
+            "type": "string",
+            "nullable": true
+          },
+          "fileName": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "txnSarbKey": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "version": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "sarbRefNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "response": {
+            "type": "string",
+            "nullable": true
+          },
+          "retrieveResponse": {
+            "type": "string",
+            "nullable": true
+          },
+          "responseByRef": {
+            "type": "string",
+            "nullable": true
+          },
+          "sarbRequest": {
+            "type": "string",
+            "nullable": true
+          },
+          "warningDetails": {
+            "type": "string",
+            "nullable": true
+          },
+          "sarbErrorDesc": {
+            "type": "string",
+            "nullable": true
+          },
+          "txnType": {
+            "type": "string",
+            "nullable": true
+          },
+          "dailyLimit": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "monthlyLimit": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "yearlyLimit": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "totalTxn": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "uploadDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "acceptedDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "dataRow": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "sarbStatus": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "nullable": true
+          },
+          "sarbIssueDates": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "nullable": true
+          },
+          "sarbUploadDates": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "nullable": true
+          },
+          "sarbAcceptDates": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "nullable": true
+          },
+          "base64": {
+            "type": "string",
+            "nullable": true
+          },
+          "dob": {
+            "type": "string",
+            "nullable": true
+          },
+          "isSubmitted": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

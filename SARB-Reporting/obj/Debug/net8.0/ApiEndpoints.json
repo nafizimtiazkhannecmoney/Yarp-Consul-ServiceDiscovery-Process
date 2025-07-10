@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbController",
+    "Method": "GetByFileName",
+    "RelativePath": "api/Sarb/GetByFileName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "SARB-Data-Getting"
+    ]
+  },
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbController",
+    "Method": "GetByReference",
+    "RelativePath": "api/Sarb/GetByReference",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sarbref",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "SARB-Data-Getting"
+    ]
+  },
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbController",
+    "Method": "GetTest",
+    "RelativePath": "api/Sarb/GetTestData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "SARB-Data-Getting"
+    ]
+  },
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbReportController",
+    "Method": "Cancel",
+    "RelativePath": "api/SarbReport/Cancel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refrencrList",
+        "Type": "SARB_Reporting.Models.Regular.TransactionData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "SARB-Reporting"
+    ]
+  },
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbReportController",
+    "Method": "Refund",
+    "RelativePath": "api/SarbReport/Refund",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refrencrList",
+        "Type": "SARB_Reporting.Models.Regular.TransactionData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "SARB-Reporting"
+    ]
+  },
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbReportController",
+    "Method": "Regular",
+    "RelativePath": "api/SarbReport/Regular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refrencrList",
+        "Type": "System.Collections.Generic.List\u00601[[SARB_Reporting.Models.Regular.TransactionData, SARB-Reporting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "SARB-Reporting"
+    ]
+  },
+  {
+    "ContainingType": "SARB_Reporting.Controllers.SarbReportController",
+    "Method": "Replace",
+    "RelativePath": "api/SarbReport/Replace",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refrencr",
+        "Type": "SARB_Reporting.Models.Regular.TransactionData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "SARB-Reporting"
+    ]
+  }
+]

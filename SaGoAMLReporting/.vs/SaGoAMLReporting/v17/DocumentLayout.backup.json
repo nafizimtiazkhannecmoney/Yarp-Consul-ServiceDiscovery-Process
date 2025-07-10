@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\controllers\\goamlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:controllers\\goamlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\controllers\\sarbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:controllers\\sarbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\service\\goamldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:service\\goamldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\service\\sarbdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:service\\sarbdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\model\\remittanceoutwardviewdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:model\\remittanceoutwardviewdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\constants\\goamlconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:constants\\goamlconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\service\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:service\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\service\\interfaces\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:service\\interfaces\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\sagoamlreporting\\model\\sarbexceldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D25CA13-8EE4-4FF4-AE3E-8F6BCECDF2C8}|SaGoAMLReporting.csproj|solutionrelative:model\\sarbexceldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsulRegistration.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\ConsulRegistration.cs",
+              "RelativeDocumentMoniker": "ConsulRegistration.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\ConsulRegistration.cs",
+              "RelativeToolTip": "ConsulRegistration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:07:15.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T10:02:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T10:02:02.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SarbDataService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\SarbDataService.cs",
+              "RelativeDocumentMoniker": "Service\\SarbDataService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\SarbDataService.cs",
+              "RelativeToolTip": "Service\\SarbDataService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwF0BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:49:40.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:36:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoAMLController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Controllers\\GoAMLController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GoAMLController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Controllers\\GoAMLController.cs",
+              "RelativeToolTip": "Controllers\\GoAMLController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:33:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SarbController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Controllers\\SarbController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SarbController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Controllers\\SarbController.cs",
+              "RelativeToolTip": "Controllers\\SarbController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:48:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoAMLDataService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\GoAMLDataService.cs",
+              "RelativeDocumentMoniker": "Service\\GoAMLDataService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\GoAMLDataService.cs",
+              "RelativeToolTip": "Service\\GoAMLDataService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:30:55.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemittanceOutwardViewDataModel.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Model\\RemittanceOutwardViewDataModel.cs",
+              "RelativeDocumentMoniker": "Model\\RemittanceOutwardViewDataModel.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Model\\RemittanceOutwardViewDataModel.cs",
+              "RelativeToolTip": "Model\\RemittanceOutwardViewDataModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:46:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISqlService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\Interfaces\\ISqlService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ISqlService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\Interfaces\\ISqlService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ISqlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:35:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SqlService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\SqlService.cs",
+              "RelativeDocumentMoniker": "Service\\SqlService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Service\\SqlService.cs",
+              "RelativeToolTip": "Service\\SqlService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBQAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:59:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T12:39:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GoAmlConstants.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Constants\\GoAmlConstants.cs",
+              "RelativeDocumentMoniker": "Constants\\GoAmlConstants.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Constants\\GoAmlConstants.cs",
+              "RelativeToolTip": "Constants\\GoAmlConstants.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAewDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:33:53.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T12:39:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SarbExcelDataModel.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Model\\SarbExcelDataModel.cs",
+              "RelativeDocumentMoniker": "Model\\SarbExcelDataModel.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\Model\\SarbExcelDataModel.cs",
+              "RelativeToolTip": "Model\\SarbExcelDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:36:48.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

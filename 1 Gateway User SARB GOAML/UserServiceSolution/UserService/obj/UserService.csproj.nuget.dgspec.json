@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj": {}
+    "E:\\Project\\API Gateway\\UserService 7 Add Update user pass\\UserServiceSolution\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj": {
+    "E:\\Project\\API Gateway\\UserService 7 Add Update user pass\\UserServiceSolution\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj",
+        "projectUniqueName": "E:\\Project\\API Gateway\\UserService 7 Add Update user pass\\UserServiceSolution\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj",
+        "projectPath": "E:\\Project\\API Gateway\\UserService 7 Add Update user pass\\UserServiceSolution\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\Nec\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\obj\\",
+        "outputPath": "E:\\Project\\API Gateway\\UserService 7 Add Update user pass\\UserServiceSolution\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

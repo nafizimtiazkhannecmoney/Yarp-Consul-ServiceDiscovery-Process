@@ -36,10 +36,10 @@
         }
       }
     },
-    "/api/user/GET_ALL_USER": {
+    "/api/User/GET_ALL_USER": {
       "get": {
         "tags": [
-          "user"
+          "User"
         ],
         "responses": {
           "200": {
@@ -48,10 +48,10 @@
         }
       }
     },
-    "/api/user/GET_USER_BY_ID/{id}": {
+    "/api/User/GET_USER_BY_ID/{id}": {
       "get": {
         "tags": [
-          "user"
+          "User"
         ],
         "parameters": [
           {

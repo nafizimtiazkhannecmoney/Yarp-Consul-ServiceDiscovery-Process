@@ -10,12 +10,12 @@ namespace UserService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class userController : ControllerBase
+    public class UserController : ControllerBase
     {
         private readonly AppDbContext _DbContext;
         private readonly UserRepository _repo;
 
-        public userController(AppDbContext DbContext, UserRepository repo)
+        public UserController(AppDbContext DbContext, UserRepository repo)
         {
             this._DbContext = DbContext;
             _repo = repo;

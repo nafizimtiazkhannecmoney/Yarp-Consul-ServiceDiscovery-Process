@@ -7,36 +7,40 @@
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\userservicesolution\\userservice\\model\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,33 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowE8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\AuthService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
+              "RelativeToolTip": "UserService\\Repository\\AuthService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:22:58.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "userController.cs",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\userController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\userController.cs",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\userController.cs",
-              "RelativeToolTip": "UserService\\Controllers\\userController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T06:54:43.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:47:27.282Z"
             },
             {
               "$type": "Document",
@@ -94,14 +84,50 @@
               "RelativeDocumentMoniker": "UserService\\Controllers\\AuthenticationController.cs",
               "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "UserService\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:45:12.76Z",
+              "WhenOpened": "2025-07-09T10:45:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\AuthResultDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\AuthResultDto.cs",
+              "RelativeToolTip": "UserService\\Model\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T06:15:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:22:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:54:43.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "UserService\\Model\\LoginRequestDto.cs",
@@ -113,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ConsulRegistration.cs",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\ConsulRegistration.cs",
               "RelativeDocumentMoniker": "UserService\\ConsulRegistration.cs",
@@ -121,12 +147,11 @@
               "RelativeToolTip": "UserService\\ConsulRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:49:18.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:49:18.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
@@ -138,16 +163,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "UserService\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "UserService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:47:35.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T05:47:35.482Z"
             },
             {
               "$type": "Document",
@@ -157,27 +181,13 @@
               "RelativeDocumentMoniker": "UserService\\Program.cs",
               "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Program.cs",
               "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:02:02.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T05:02:02.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthService.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthService.cs",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthService.cs",
-              "RelativeToolTip": "UserService\\Controllers\\AuthService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:47:27.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Config\\AppDbContext.cs",
               "RelativeDocumentMoniker": "UserService\\Config\\AppDbContext.cs",
@@ -185,12 +195,11 @@
               "RelativeToolTip": "UserService\\Config\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T06:32:29.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T06:32:29.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TUser.cs",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\TUser.cs",
               "RelativeDocumentMoniker": "UserService\\Model\\TUser.cs",
@@ -202,13 +211,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
               "RelativeDocumentMoniker": "UserService\\appsettings.json",
               "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
               "RelativeToolTip": "UserService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-03T05:08:42.64Z"
             }

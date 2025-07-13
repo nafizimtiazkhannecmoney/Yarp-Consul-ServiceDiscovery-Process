@@ -8,7 +8,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "model",
+        "Name": "dto",
         "Type": "UserService.Model.LoginRequestDto",
         "IsRequired": true
       }
@@ -16,9 +16,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserService.Controllers.userController",
+    "ContainingType": "UserService.Controllers.UserController",
     "Method": "All",
-    "RelativePath": "api/user/GET_ALL_USER",
+    "RelativePath": "api/User/GET_ALL_USER",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -26,9 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserService.Controllers.userController",
+    "ContainingType": "UserService.Controllers.UserController",
     "Method": "ById",
-    "RelativePath": "api/user/GET_USER_BY_ID/{id}",
+    "RelativePath": "api/User/GET_USER_BY_ID/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

@@ -6,6 +6,7 @@
 
 using Microsoft.AspNetCore.Mvc;
 using UserService.Model;
+using UserService.Repository;
 
 namespace UserService.Controllers
 {
@@ -23,24 +24,13 @@ namespace UserService.Controllers
         }
 
 
-        [HttpPost]
-        [Route("login")]
-        public async Task<IActionResult> Login(LoginRequestDto model)
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginRequestDto dto)
         {
-            try
-            {
-                if (!ModelState.IsValid)
-                    return BadRequest("Invalid payload");
-                var (status, message) = await _authService.Login(model);
-                if (status == 0)
-                    return BadRequest(message);
-                return Ok(message);
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex.Message);
-                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
-            }
+            var result = await _authService.LoginAsync(dto);
+            return result is null
+                ? Unauthorized(new { message = "Invalid username or password" })
+                : Ok(result);                          // { token, user {...} }
         }
     }
 }

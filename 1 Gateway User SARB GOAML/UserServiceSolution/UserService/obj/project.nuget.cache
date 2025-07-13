@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeNqkZAWFXg=",
+  "dgSpecHash": "5k4GVRk1HMo=",
   "success": true,
-  "projectFilePath": "E:\\Project\\API Gateway\\UserService 7 Add Update user pass\\UserServiceSolution\\UserService\\UserService.csproj",
+  "projectFilePath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nec\\.nuget\\packages\\consul\\1.7.14.7\\consul.1.7.14.7.nupkg.sha512",
     "C:\\Users\\Nec\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -34,7 +34,7 @@ namespace UserService.Controllers
         //{
         //    var list = await _DbContext.TUsers.Where(u => u.IdUserKey == 100004).FirstOrDefaultAsync();
         //    return Ok(list);
-        //}
+        //}    123
 
 
         [Authorize(Roles = "OPERATOR,ADMIN")]

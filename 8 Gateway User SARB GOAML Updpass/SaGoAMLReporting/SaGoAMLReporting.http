@@ -1,0 +1,6 @@
+@SaGoAMLReporting_HostAddress = http://localhost:5169
+
+GET {{SaGoAMLReporting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

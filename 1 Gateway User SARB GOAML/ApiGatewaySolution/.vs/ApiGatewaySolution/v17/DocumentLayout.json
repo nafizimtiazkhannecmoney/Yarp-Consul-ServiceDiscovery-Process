@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\",
+  "WorkspaceRootPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\configurations\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\configurations\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\configurations\\consulconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\configurations\\gatewayconsulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\configurations\\gatewayconsulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\configurations\\gatewayconsulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\configurations\\gatewayconsulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|e:\\project\\api gateway\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\apigatewaysolution\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E6C6FCC-5007-4820-B8BF-D2240AAC6C52}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,11 +38,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GatewayConsulRegistration.cs",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\GatewayConsulRegistration.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\GatewayConsulRegistration.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Configurations\\GatewayConsulRegistration.cs",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\GatewayConsulRegistration.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\GatewayConsulRegistration.cs",
               "RelativeToolTip": "ApiGateway\\Configurations\\GatewayConsulRegistration.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.Development.json",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ApiGateway\\appsettings.Development.json",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.Development.json",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.Development.json",
               "RelativeToolTip": "ApiGateway\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -62,35 +62,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.json",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.json",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\appsettings.json",
               "RelativeToolTip": "ApiGateway\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-29T05:43:28.883Z"
+              "WhenOpened": "2025-06-29T05:43:28.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ConsulConfig.cs",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\ConsulConfig.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\ConsulConfig.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Configurations\\ConsulConfig.cs",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\ConsulConfig.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Configurations\\ConsulConfig.cs",
               "RelativeToolTip": "ApiGateway\\Configurations\\ConsulConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowIUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T04:14:27.138Z"
+              "WhenOpened": "2025-06-29T04:14:27.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Properties\\launchSettings.json",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Properties\\launchSettings.json",
               "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -100,11 +102,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Program.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
-              "ToolTip": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Program.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\ApiGatewaySolution\\ApiGateway\\Program.cs",
               "RelativeToolTip": "ApiGateway\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwJAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T03:50:56.09Z",
               "EditorCaption": ""

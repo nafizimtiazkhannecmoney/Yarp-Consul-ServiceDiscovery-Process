@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +23,12 @@
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,32 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
-              "RelativeDocumentMoniker": "UserService\\Repository\\AuthService.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
-              "RelativeToolTip": "UserService\\Repository\\AuthService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:47:27.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "UserService\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:45:12.76Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -102,28 +78,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
               "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
               "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wFQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:22:58.363Z"
+              "WhenOpened": "2025-07-10T07:22:58.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\UserController.cs",
-              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "userController.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\userController.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\userController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\userController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T06:54:43.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T06:54:43.744Z"
             },
             {
               "$type": "Document",
@@ -163,27 +139,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "UserService\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "UserService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:47:35.482Z"
+              "WhenOpened": "2025-07-03T05:47:35.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Program.cs",
               "RelativeDocumentMoniker": "UserService\\Program.cs",
               "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Program.cs",
               "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:02:02.125Z"
+              "WhenOpened": "2025-07-03T05:02:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T05:08:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\AuthService.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
+              "RelativeToolTip": "UserService\\Repository\\AuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:47:27.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:45:12.76Z"
             },
             {
               "$type": "Document",
@@ -208,18 +224,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T06:13:06.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
-              "RelativeDocumentMoniker": "UserService\\appsettings.json",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
-              "RelativeToolTip": "UserService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-03T05:08:42.64Z"
             }
           ]
         }

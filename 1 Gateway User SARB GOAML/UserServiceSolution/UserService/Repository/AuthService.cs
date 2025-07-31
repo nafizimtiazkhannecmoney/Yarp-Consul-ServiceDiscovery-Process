@@ -52,32 +52,32 @@ namespace UserService.Repository
 
         private string GenerateToken(IEnumerable<Claim> claims)
         {
-            //var keyBytes = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
-            //var jwt = new JwtSecurityToken(
+            var keyBytes = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
+            var jwt = new JwtSecurityToken(
 
-            //    issuer: _configuration["Jwt:Issuer"],
-            //    audience: _configuration["Jwt:Audience"],
-            //    claims: claims,
-            //    expires: DateTime.UtcNow.AddHours(3),
-            //    signingCredentials: new SigningCredentials(keyBytes, SecurityAlgorithms.HmacSha256));
+                issuer: _configuration["Jwt:Issuer"],
+                audience: _configuration["Jwt:Audience"],
+                claims: claims,
+                expires: DateTime.UtcNow.AddHours(3),
+                signingCredentials: new SigningCredentials(keyBytes, SecurityAlgorithms.HmacSha256));
 
-            //return new JwtSecurityTokenHandler().WriteToken(jwt);
+            return new JwtSecurityTokenHandler().WriteToken(jwt);
 
             //---------------------------Both OF These Code Works------------------------------------
 
-            var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
-            var tokenDescriptor = new SecurityTokenDescriptor
-            {
-                Issuer = _configuration["Jwt:Issuer"],
-                Audience = _configuration["Jwt:Audience"],
-                Expires = DateTime.UtcNow.AddHours(0.1),
-                SigningCredentials = new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256),
-                Subject = new ClaimsIdentity(claims)
-            };
+            //var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
+            //var tokenDescriptor = new SecurityTokenDescriptor
+            //{
+            //    Issuer = _configuration["Jwt:Issuer"],
+            //    Audience = _configuration["Jwt:Audience"],
+            //    Expires = DateTime.UtcNow.AddHours(0.1),
+            //    SigningCredentials = new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256),
+            //    Subject = new ClaimsIdentity(claims)
+            //};
 
-            var tokenHandler = new JwtSecurityTokenHandler();
-            var token = tokenHandler.CreateToken(tokenDescriptor);
-            return tokenHandler.WriteToken(token);
+            //var tokenHandler = new JwtSecurityTokenHandler();
+            //var token = tokenHandler.CreateToken(tokenDescriptor);
+            //return tokenHandler.WriteToken(token);
         }
     }
 }

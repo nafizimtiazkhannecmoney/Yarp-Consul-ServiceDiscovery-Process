@@ -5422,11 +5422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
+      "projectUniqueName": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
       "projectName": "SaGoAMLReporting",
-      "projectPath": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
+      "projectPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
       "packagesPath": "C:\\Users\\Nec\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\API Gateway\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\obj\\",
+      "outputPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5459,7 +5459,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -5521,7 +5521,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

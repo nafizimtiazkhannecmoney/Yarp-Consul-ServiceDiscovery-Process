@@ -60,6 +60,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+//// Newly added line
+//app.UseAuthentication();
 // ***** Use Authentication and Authorization
 app.UseAuthorization();
 

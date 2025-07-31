@@ -1,6 +1,0 @@
-@SARB_Reporting_HostAddress = http://localhost:5296
-
-GET {{SARB_Reporting_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

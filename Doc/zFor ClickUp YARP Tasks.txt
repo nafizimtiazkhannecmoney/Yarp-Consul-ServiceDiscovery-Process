@@ -1,9 +1,3 @@
-Main Branch
-
-# Yarp-Consul-ServiceDiscovery-Process
-Process Of Yarp-Consul-Service Discovery
-
-
 1. Implemented Yarp to Gateway service(Yarp.ReverseProxy 2.3.0)
 2. Two services is being added to gateway yarps cluster
 3. Interceptor is being added to Gateway service progra.cs to monitor service execution
@@ -134,7 +128,6 @@ Connected the application with both SQL Server and PostgreSQL simultaneously.
 Implemented TransactionHandleService to pass data between SQL Server and PostgreSQL in sync.
 
 Enabled multi-DB support by parameterizing functions so they can fetch data from different databases.
-
 
 
 

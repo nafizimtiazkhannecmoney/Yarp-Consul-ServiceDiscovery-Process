@@ -14,11 +14,17 @@
     */
     public class ConsulConfig : BackgroundService, Yarp.ReverseProxy.Configuration.IProxyConfigProvider
     {
+        private readonly ILogger<ConsulConfig> _logger;
         private /*readonly*/ IConsulClient _consul = new ConsulClient(c => c.Address = new Uri("http://localhost:8500"));
         private volatile Config _config = new Config(
             new List<Yarp.ReverseProxy.Configuration.RouteConfig>(),
             new List<Yarp.ReverseProxy.Configuration.ClusterConfig>()
         );
+
+        public ConsulConfig(ILogger<ConsulConfig> logger)
+        {
+            this._logger = logger;
+        }
 
         public Yarp.ReverseProxy.Configuration.IProxyConfig GetConfig() => _config;
 
@@ -28,7 +34,9 @@
             {
                 try
                 {
+                    _logger.LogInformation("Fetching services from Consul...");
                     var services = await _consul.Agent.Services();
+                    _logger.LogDebug("Received {ServiceCount} services from Consul.", services.Response.Count);
 
                     var routes = new List<Yarp.ReverseProxy.Configuration.RouteConfig>
                 {
@@ -59,16 +67,9 @@
                         ClusterId           = "userservice-cluster",
                         Match = new RouteMatch
                         {
-                            Path = "/api/authentication/{**catch-all}"     //Match api/<sarb>/   (sarb) part with controller Name*
+                            Path = "/api/v1/user/{**catch-all}"     //Match api/<sarb>/   (sarb) part with controller Name*
                         }
                     },
-                    // ---------- NEW: User endpoints (UserController) ----------
-                    new Yarp.ReverseProxy.Configuration.RouteConfig
-                    {
-                        RouteId   = "user-route",
-                        ClusterId = "userservice-cluster",           // same downstream service
-                        Match     = new RouteMatch { Path = "/api/user/{**catch-all}" }
-                    }
                 };
 
                     var clusters = new List<Yarp.ReverseProxy.Configuration.ClusterConfig>();
@@ -77,6 +78,7 @@
                     var reportServices = services.Response.Values
                                          .Where(s => s.Service == "sarb-reporting")
                                          .ToList();
+                    
 
                     if (reportServices.Any())
                     {
@@ -91,6 +93,10 @@
                                     Address = $"https://{s.Address}:{s.Port}/"
                                 })
                         });
+                    }
+                    else
+                    {
+                        _logger.LogWarning("No 'sarb-reporting' services found in Consul.");
                     }
 
                     // Find goaml services
@@ -111,6 +117,10 @@
                                 })
                         });
                     }
+                    else
+                    {
+                        _logger.LogWarning("No 'sagoaml-reporting' services found in Consul.");
+                    }
 
                     // Find user service
                     var userServices = services.Response.Values
@@ -126,13 +136,23 @@
                                 s => new Yarp.ReverseProxy.Configuration.DestinationConfig
                                 {
                                     // If SARB-User-Service exposes HTTPS only, keep https://
-                                    Address = $"https://{s.Address}:{s.Port}/"
+                                     Address = $"https://{s.Address}:{s.Port}/"
                                 })
                         });
+                        _logger.LogInformation("Created userservice-cluster with destinations: {Destinations}",
+                        string.Join(", ", userServices.Select(s => $"http://{s.Address}:{s.Port}/")));
                     }
-                        var oldConfig = _config;
+                    else
+                    {
+                        _logger.LogWarning("No 'user-service' services found in Consul.");
+                        _logger.LogWarning("Available services: {Services}",
+                            string.Join(", ", services.Response.Values.Select(s => s.Service)));
+                    }
+
+                    var oldConfig = _config;
                         _config = new Config(routes, clusters);
                         oldConfig.SignalChange();
+                        _logger.LogInformation("YARP configuration updated successfully.");
                 }
                 catch (Exception ex)
                 {
@@ -141,6 +161,7 @@
 
                 await Task.Delay(5000, stoppingToken);
             }
+            _logger.LogInformation("ConsulConfig background service is stopping.");
         }
 
         private class Config : Yarp.ReverseProxy.Configuration.IProxyConfig

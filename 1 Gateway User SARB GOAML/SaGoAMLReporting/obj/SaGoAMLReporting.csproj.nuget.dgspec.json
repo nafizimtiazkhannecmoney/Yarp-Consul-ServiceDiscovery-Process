@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj": {}
+    "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\SaGoAMLReporting\\SaGoAMLReporting.csproj": {}
   },
   "projects": {
-    "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj": {
+    "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\SaGoAMLReporting\\SaGoAMLReporting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
+        "projectUniqueName": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
         "projectName": "SaGoAMLReporting",
-        "projectPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
+        "projectPath": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\SaGoAMLReporting\\SaGoAMLReporting.csproj",
         "packagesPath": "C:\\Users\\Nec\\.nuget\\packages\\",
-        "outputPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SaGoAMLReporting\\obj\\",
+        "outputPath": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\SaGoAMLReporting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

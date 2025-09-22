@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\repository\\transactionhandleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\transactionhandleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\config\\appdbcontextmssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontextmssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\config\\appdbcontextplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontextplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\config\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\interfaces\\iidbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\interfaces\\iidbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\adduserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\adduserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution testjson\\userservice\\model\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:54:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAWwJgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:22:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIDbConnection.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Interfaces\\IIDbConnection.cs",
+              "RelativeDocumentMoniker": "UserService\\Interfaces\\IIDbConnection.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Interfaces\\IIDbConnection.cs",
+              "RelativeToolTip": "UserService\\Interfaces\\IIDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:59:51.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Config\\DbConnection.cs",
+              "RelativeDocumentMoniker": "UserService\\Config\\DbConnection.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Config\\DbConnection.cs",
+              "RelativeToolTip": "UserService\\Config\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:00:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "UserService\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "UserService\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:56:45.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionHandleService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Repository\\TransactionHandleService.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\TransactionHandleService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Repository\\TransactionHandleService.cs",
+              "RelativeToolTip": "UserService\\Repository\\TransactionHandleService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADgv1MAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:49:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextMsSql.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Config\\AppDbContextMsSql.cs",
+              "RelativeDocumentMoniker": "UserService\\Config\\AppDbContextMsSql.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Config\\AppDbContextMsSql.cs",
+              "RelativeToolTip": "UserService\\Config\\AppDbContextMsSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:44:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAEBVwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:45:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangePasswordRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\ChangePasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\ChangePasswordRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\ChangePasswordRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\ChangePasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:16:43.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateUserRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\UpdateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UpdateUserRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\UpdateUserRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UpdateUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:38:17.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsulRegistration.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\ConsulRegistration.cs",
+              "RelativeDocumentMoniker": "UserService\\ConsulRegistration.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\ConsulRegistration.cs",
+              "RelativeToolTip": "UserService\\ConsulRegistration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:49:18.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T08:39:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Controllers\\TestController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\TestController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:47:35.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:02:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Repository\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\AuthService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Repository\\AuthService.cs",
+              "RelativeToolTip": "UserService\\Repository\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:47:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T05:08:42.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\AuthResultDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\AuthResultDto.cs",
+              "RelativeToolTip": "UserService\\Model\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T06:15:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUserRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\AddUserRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\AddUserRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\AddUserRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\AddUserRequestDto.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAqwHgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:00:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\LoginRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\LoginRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:08:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UserDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\UserDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:23:37.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextPlSql.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Config\\AppDbContextPlSql.cs",
+              "RelativeDocumentMoniker": "UserService\\Config\\AppDbContextPlSql.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Config\\AppDbContextPlSql.cs",
+              "RelativeToolTip": "UserService\\Config\\AppDbContextPlSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:32:29.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TUser.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\TUser.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\TUser.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution TestJson\\UserService\\Model\\TUser.cs",
+              "RelativeToolTip": "UserService\\Model\\TUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:13:06.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -34,7 +34,7 @@ namespace SARB_Reporting.Controllers
 
 
 
-        [Authorize(Roles = "OPERATOR,ADMIN")]
+        [Authorize(Roles = "USER,OPERATOR")]
         [HttpGet("GetTestData")]
         public string[] GetTest()
         {

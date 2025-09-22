@@ -2,13 +2,21 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using ApiGateway.Configurations;
+using ApiGateway.Controllers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Serilog;
 using Yarp.ReverseProxy.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Load Serilog configuration from appsettings.json
+builder.Host.UseSerilog((context, services, configuration) =>
+    configuration
+        .ReadFrom.Configuration(context.Configuration)
+        .Enrich.FromLogContext());
 
 #region Consul service-discovery wiring
 // ---------------------------------------------------------------------------
@@ -21,42 +29,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton<ConsulConfig>();
 builder.Services.AddSingleton<IProxyConfigProvider>(p => p.GetRequiredService<ConsulConfig>());
 builder.Services.AddHostedService(p => p.GetRequiredService<ConsulConfig>());
-
-
-#region JWT authentication / authorization
-// ---------------------------------------------------------------------------
-//  Authentication:
-//    • Use the default “Bearer” scheme provided by JwtBearerDefaults.
-//    • Validate signature + expiry; issuer/audience checks can be re-enabled
-//      (set ValidateIssuer / ValidateAudience = true) once all clients
-//      issue properly-stamped tokens.
-//
-//  Authorization:
-//    • Add a simple policy (“Authenticated”) that requires a *valid* token.
-//      YARP routes can reference this policy via `AuthorizationPolicy`.
-// ---------------------------------------------------------------------------
-#endregion
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme) // Use JwtBearerDefaults.AuthenticationScheme instead of "Bearer"
-   .AddJwtBearer(o =>
-   {
-       o.TokenValidationParameters = new()
-       {
-           ValidateIssuer = false,
-           ValidateAudience = false,
-           ValidateLifetime = true,
-           ValidateIssuerSigningKey = true,
-           ClockSkew = TimeSpan.Zero,
-           ValidIssuer = builder.Configuration["Jwt:Issuer"],
-           ValidAudience = builder.Configuration["Jwt:Audience"],
-           IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
-       };
-   });
-
-builder.Services.AddAuthorization(options =>
-{
-    options.AddPolicy("Authenticated", p => p.RequireAuthenticatedUser());
-});
-
 
 
 #region Health-check & gateway registration
@@ -79,6 +51,8 @@ builder.Services.AddReverseProxy();
 
 var app = builder.Build();
 
+app.UseMiddleware<RoleClaimMiddleware>(); // <---- your custom middleware
+app.UseAuthorization();
 // Health-check probe (Consul / k8s / Docker)
 app.MapHealthChecks("/health");
 
@@ -101,7 +75,7 @@ app.Use(async (context, next) =>
 
     await next(); // Continue to YARP
 });
-
+ 
 // Wire up YARP – must come *after* any auth/diagnostic middleware
 app.MapReverseProxy();
 
@@ -159,3 +133,16 @@ app.Run();
 // First run Consul with this command "consul agent -dev -ui"
 // Consul ui will be available at http://localhost:8500
 #endregion
+
+/* 
+ okay lets explain the problem and my needs first, I have a api project which is a apigateway(it has consul, it routes the other services like user service)
+and in other hand I have the userservice which is registered on consul and the apigateway project discovers it and the userservice is being routed through the gateway
+the user service is responcible for login, new register, get all user , get by id, update pass, update user, and the user service uses postgresql, and stored procedure(sel_user(out text, in text);)
+which has several actions (ELSEIF _tx_action_name = 'GET_ALL_ROLES' THEN, ELSEIF _tx_action_name = 'GET_ALL_USER' THEN, ELSEIF _tx_action_name = 'GET_USER_BY_ID' THEN,
+ELSEIF _tx_action_name = 'SIGN_IN' THEN, ), and another one which is act_user(OUT _rs_out text, IN _json text) and it also has several actions (ELSEIF _tx_action_name = 'ADD_USER' THEN
+, ELSEIF _tx_action_name = 'UPDATE' THEN, ELSEIF _tx_action_name = 'UPD_PWD' THEN, ELSEIF _tx_action_name = 'LOGOUT' THEN), now all the things are working for the postgresql,
+now my task is to use mssql, I have already made the same user, role, group, group map tables, and the triggers,and made stored procedure but not sure if my stored procedure for mssql 
+is correct, the task is that if A developer changes the connection string mssql it will automatically be functional (as it is already is configured for postgre), if you have 
+understood my requirements please let me know and guide me step by step how to do it and feel free to ask for any of my current codes or table scripts or stored procedures to
+understand properly
+ */

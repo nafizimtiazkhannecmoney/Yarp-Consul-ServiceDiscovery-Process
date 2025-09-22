@@ -22,7 +22,7 @@ namespace UserService.Model
         [JsonPropertyName("userInfo")]
         public UserInfoDto UserInfo { get; set; } = new();
 
-        [JsonPropertyName("group")]
+        [JsonPropertyName("groups")]
         public List<GroupDto> Group { get; set; } = new();
     }
 

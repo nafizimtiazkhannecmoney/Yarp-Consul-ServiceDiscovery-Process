@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj": {}
+    "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj": {
+    "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj",
+        "projectUniqueName": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\UserService.csproj",
+        "projectPath": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\Nec\\.nuget\\packages\\",
-        "outputPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\obj\\",
+        "outputPath": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,17 +58,29 @@
               "target": "Package",
               "version": "[8.0.17, )"
             },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.6, )"
+            },
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Npgsql": {
               "target": "Package",
@@ -77,6 +89,22 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -102,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

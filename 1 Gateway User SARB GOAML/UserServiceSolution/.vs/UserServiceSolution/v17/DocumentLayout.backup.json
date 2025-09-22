@@ -1,58 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\",
+  "WorkspaceRootPath": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\repository\\transactionhandleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\transactionhandleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\config\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\interfaces\\iidbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\interfaces\\iidbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\config\\appdbcontextmssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontextmssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\consulregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\model\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\config\\appdbcontextplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\config\\appdbcontextplsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\repository\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\adduserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\adduserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\changepasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\model\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|e:\\project\\api gateway\\zcopy of 9 25thaugust refactor\\userservicesolution\\userservice\\model\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\model\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|h:\\project nafinec git\\yarp-consul-servicediscovery-process\\1 gateway user sarb goaml\\userservicesolution\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8E6B8DB-E520-4BFF-B721-9C027E4D24A7}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,52 +98,236 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthResultDto.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\AuthResultDto.cs",
-              "RelativeDocumentMoniker": "UserService\\Model\\AuthResultDto.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\AuthResultDto.cs",
-              "RelativeToolTip": "UserService\\Model\\AuthResultDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IIDbConnection.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Interfaces\\IIDbConnection.cs",
+              "RelativeDocumentMoniker": "UserService\\Interfaces\\IIDbConnection.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Interfaces\\IIDbConnection.cs",
+              "RelativeToolTip": "UserService\\Interfaces\\IIDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T06:15:20.346Z"
+              "WhenOpened": "2025-08-27T10:59:51.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Config\\DbConnection.cs",
+              "RelativeDocumentMoniker": "UserService\\Config\\DbConnection.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Config\\DbConnection.cs",
+              "RelativeToolTip": "UserService\\Config\\DbConnection.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:00:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "UserService\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "UserService\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:56:45.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionHandleService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Repository\\TransactionHandleService.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\TransactionHandleService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Repository\\TransactionHandleService.cs",
+              "RelativeToolTip": "UserService\\Repository\\TransactionHandleService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:49:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextMsSql.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Config\\AppDbContextMsSql.cs",
+              "RelativeDocumentMoniker": "UserService\\Config\\AppDbContextMsSql.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Config\\AppDbContextMsSql.cs",
+              "RelativeToolTip": "UserService\\Config\\AppDbContextMsSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:44:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Repository\\UserRepository.cs",
               "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAA9wFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwKAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T07:22:58.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "userController.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\userController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\userController.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\userController.cs",
-              "RelativeToolTip": "UserService\\Controllers\\userController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAEBVwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T06:54:43.744Z"
+              "WhenOpened": "2025-07-09T10:45:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwPsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:54:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangePasswordRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\ChangePasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\ChangePasswordRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\ChangePasswordRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\ChangePasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:16:43.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateUserRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\UpdateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UpdateUserRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\UpdateUserRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UpdateUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:38:17.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ConsulRegistration.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\ConsulRegistration.cs",
+              "RelativeDocumentMoniker": "UserService\\ConsulRegistration.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\ConsulRegistration.cs",
+              "RelativeToolTip": "UserService\\ConsulRegistration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:49:18.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T08:39:51.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Controllers\\TestController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\TestController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:47:35.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:02:02.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\AuthService.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
+              "RelativeToolTip": "UserService\\Repository\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:47:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T05:08:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\AuthResultDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\AuthResultDto.cs",
+              "RelativeToolTip": "UserService\\Model\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T06:15:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUserRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\AddUserRequestDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\AddUserRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\AddUserRequestDto.cs",
+              "RelativeToolTip": "UserService\\Model\\AddUserRequestDto.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAqwHgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:00:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\LoginRequestDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "UserService\\Model\\LoginRequestDto.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\LoginRequestDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\LoginRequestDto.cs",
               "RelativeToolTip": "UserService\\Model\\LoginRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,111 +335,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConsulRegistration.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\ConsulRegistration.cs",
-              "RelativeDocumentMoniker": "UserService\\ConsulRegistration.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\ConsulRegistration.cs",
-              "RelativeToolTip": "UserService\\ConsulRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:49:18.153Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-03T08:39:51.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "UserService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UserDto.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\UserDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:47:35.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T09:23:37.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Program.cs",
-              "RelativeDocumentMoniker": "UserService\\Program.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Program.cs",
-              "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:02:02.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
-              "RelativeDocumentMoniker": "UserService\\appsettings.json",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\appsettings.json",
-              "RelativeToolTip": "UserService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-03T05:08:42.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
-              "RelativeDocumentMoniker": "UserService\\Repository\\AuthService.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Repository\\AuthService.cs",
-              "RelativeToolTip": "UserService\\Repository\\AuthService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:47:27.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "UserService\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:45:12.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Config\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UserService\\Config\\AppDbContext.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Config\\AppDbContext.cs",
-              "RelativeToolTip": "UserService\\Config\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextPlSql.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Config\\AppDbContextPlSql.cs",
+              "RelativeDocumentMoniker": "UserService\\Config\\AppDbContextPlSql.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Config\\AppDbContextPlSql.cs",
+              "RelativeToolTip": "UserService\\Config\\AppDbContextPlSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T06:32:29.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "TUser.cs",
-              "DocumentMoniker": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\TUser.cs",
+              "DocumentMoniker": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\TUser.cs",
               "RelativeDocumentMoniker": "UserService\\Model\\TUser.cs",
-              "ToolTip": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\UserServiceSolution\\UserService\\Model\\TUser.cs",
+              "ToolTip": "E:\\Project\\API Gateway\\zCopy Of 9 25thAugust Refactor\\UserServiceSolution\\UserService\\Model\\TUser.cs",
               "RelativeToolTip": "UserService\\Model\\TUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

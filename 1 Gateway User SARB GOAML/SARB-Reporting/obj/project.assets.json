@@ -2213,11 +2213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SARB-Reporting\\SARB-Reporting.csproj",
+      "projectUniqueName": "E:\\Project\\API Gateway\\zUser Service- Copy Of no 8 part  23rd August\\SARB-Reporting\\SARB-Reporting.csproj",
       "projectName": "SARB-Reporting",
-      "projectPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SARB-Reporting\\SARB-Reporting.csproj",
+      "projectPath": "E:\\Project\\API Gateway\\zUser Service- Copy Of no 8 part  23rd August\\SARB-Reporting\\SARB-Reporting.csproj",
       "packagesPath": "C:\\Users\\Nec\\.nuget\\packages\\",
-      "outputPath": "H:\\Project Nafinec Git\\Yarp-Consul-ServiceDiscovery-Process\\1 Gateway User SARB GOAML\\SARB-Reporting\\obj\\",
+      "outputPath": "E:\\Project\\API Gateway\\zUser Service- Copy Of no 8 part  23rd August\\SARB-Reporting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2304,7 +2304,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

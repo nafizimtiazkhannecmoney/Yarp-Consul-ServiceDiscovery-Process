@@ -4,27 +4,9 @@ using Microsoft.IdentityModel.Tokens;
 using SaGoAMLReporting;
 using SaGoAMLReporting.Service;
 using SaGoAMLReporting.Service.Interfaces;
+using SARB_Reporting.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
-//  JWT 
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme) // Use JwtBearerDefaults.AuthenticationScheme instead of "Bearer"
-   .AddJwtBearer(o =>
-   {
-       o.TokenValidationParameters = new()
-       {
-           ValidateIssuer = false,
-           ValidateAudience = false,
-           ValidateLifetime = true,
-           ValidateIssuerSigningKey = true,
-           ClockSkew = TimeSpan.Zero,
-           ValidIssuer = builder.Configuration["Jwt:Issuer"],
-           ValidAudience = builder.Configuration["Jwt:Audience"],
-           IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
-       };
-   });
-
-builder.Services.AddAuthorization();
 
 // Add services to the container.
 
@@ -56,7 +38,9 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction() || app.Env
 
 app.UseHttpsRedirection();
 
+app.UseMiddleware<RoleClaimMiddleware>(); // <---- your custom middleware
 app.UseAuthorization();
+
 
 // Add this line
 app.MapHealthChecks("/health");

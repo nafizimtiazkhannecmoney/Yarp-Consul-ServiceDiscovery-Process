@@ -2,7 +2,7 @@
   {
     "ContainingType": "UserService.Controllers.AuthenticationController",
     "Method": "Login",
-    "RelativePath": "api/Authentication/login",
+    "RelativePath": "api/v1/user/Authentication/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,18 +17,8 @@
   },
   {
     "ContainingType": "UserService.Controllers.UserController",
-    "Method": "All",
-    "RelativePath": "api/User/GET_ALL_USER",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "UserService.Controllers.UserController",
-    "Method": "ById",
-    "RelativePath": "api/User/GET_USER_BY_ID/{id}",
+    "Method": "GetUserById",
+    "RelativePath": "api/v1/user/User/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +32,109 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserService.Controllers.WeatherForecastController",
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/v1/user/User/ADD_USER",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UserService.Model.AddUserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "ChangePasswordFromBody",
+    "RelativePath": "api/v1/user/User/CHANGE_PASSWORD",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UserService.Model.ChangePasswordRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "All",
+    "RelativePath": "api/v1/user/User/GET_ALL_USER",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "ById",
+    "RelativePath": "api/v1/user/User/GET_USER_BY_ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "test",
+    "RelativePath": "api/v1/user/User/test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inParam",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "spName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "provider",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.UserController",
+    "Method": "UpdateUserFromBody",
+    "RelativePath": "api/v1/user/User/UPDATE_USER",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UserService.Model.UpdateUserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserService.Controllers.TestController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "Test",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

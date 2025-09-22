@@ -15,7 +15,7 @@
 
         public async Task StartAsync(CancellationToken ct)
         {
-            // The service already listens on 5003 in launchSettings.json
+            // The service already listens on 5004 in launchSettings.json
             var uri = new Uri(_config["urls"] ?? "https://localhost:5004");
 
             _serviceId = $"sarb-reporting-{Guid.NewGuid()}";
@@ -30,7 +30,7 @@
                 {
                     HTTP = $"{uri.Scheme}://{uri.Host}:{uri.Port}/health",
                     Interval = TimeSpan.FromSeconds(10),
-                    DeregisterCriticalServiceAfter = TimeSpan.FromMinutes(1)
+                    DeregisterCriticalServiceAfter = TimeSpan.FromMinutes(5)
                 }
             };
 
